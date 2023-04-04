@@ -5,7 +5,7 @@ O projeto foi feito a partir das aulas da Alura sobre Programação Orientada a 
 
 O case conta com boas práticas e é de fácil utilização. Alguns dos assuntos utilizados são: classes, campos, objetos, propriedados, métodos... 
 ## Arquivos
-Projeto: bytebank
+Projeto: bytebank.
 
 Desafios: exercícios da Alura acerca dos tópicos. 
 
